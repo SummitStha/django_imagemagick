@@ -1,0 +1,13 @@
+*.pyc
+*.pyo
+db.sqlite3
+*.db
+*.pid
+.idea/
+media/
+__ pycache __
+.DS_Store
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
+
